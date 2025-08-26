@@ -32,7 +32,8 @@ The script performs the following actions:
 -----
 ## Installation
 - To install, you can use `curl` in your terminal emulator to download the script, grant it executable permissions, and then run it.
-**English version of this script**
+
+**English version of the script**
 ```bash
 curl -O https://raw.githubusercontent.com/n-cash/mt5arch.sh/refs/heads/main/mt5arch.sh
 chmod +x mt5arch.sh

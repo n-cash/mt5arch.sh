@@ -4,7 +4,7 @@ Installation script for Metatrader5 within Arch, using `wine`.
 ## ¿Qué hace este script?
 Este script es una adaptación [de los scripts de instalación oficiales para metatrader 5 en Linux.](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux)
 Estos scripts originalmente se enfocaron sobre Ubuntu y Debian. Aquí los habilitamos en Arch, descartando gran parte del script que solo era requerida para Ubuntu/Debian, e integrando a `pacman` como el package manager correspondiente.
-Tenemos dos versiones disponibles, una en [inglés](https://github.com/n-cash/mt5arch.sh/edit/main/README.md#what-does-this-script-do) y otra en español.
+Tenemos dos versiones disponibles, una en [inglés](https://github.com/n-cash/mt5arch.sh/tree/main?tab=readme-ov-file#what-does-this-script-do) y otra en español.
 ## Paso por paso...
 El script:
 1. Verifica si el repositorio `multilib` está habilitado en el archivo `/etc/pacman.conf`. Si no lo está, va a ser necesario ir hasta ese archivo y habilitar/descomentar `multilib`.

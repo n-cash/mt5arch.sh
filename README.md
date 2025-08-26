@@ -1,5 +1,5 @@
 # mt5arch.sh
-Installation script for Metatrader5 within Arch, using `wine`. 
+Installation script for Metatrader5 within Arch, using `wine`. [English version here!](https://github.com/n-cash/mt5arch.sh/tree/main?tab=readme-ov-file#what-does-this-script-do)
 
 ## ¿Qué hace este script?
 Este script es una adaptación [de los scripts de instalación oficiales para metatrader 5 en Linux.](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux)
@@ -13,7 +13,8 @@ El script:
 -----
 ## Instalación.
 - Para instalar, puedes usar `curl` en tu emulador de terminal para descargarte el script, darle permisos de ejecución, y ejecutarlo.
-**Versión en español del script **
+
+**Versión en español del script**
 ```bash
 curl -O https://raw.githubusercontent.com/n-cash/mt5arch.sh/refs/heads/main/mt5arch-es.sh
 chmod +x mt5arch.sh

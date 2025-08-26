@@ -3,8 +3,8 @@
 set -e
  
 # -------------------------------------------
-# MetaTrader 5 Installer for Arch Linux
-# Author: [Tu Nombre]
+# Instalador de MetaTrader 5 para Arch Linux
+# Author: [AI]
 # Date: 2025-08-10
 # -------------------------------------------
  

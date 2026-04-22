@@ -17,8 +17,8 @@ El script:
 **Versión en español del script**
 ```bash
 curl -O https://raw.githubusercontent.com/n-cash/mt5arch.sh/refs/heads/main/mt5arch-es.sh
-chmod +x mt5arch.sh
-./mt5arch.sh
+chmod +x mt5arch-es.sh
+./mt5arch-es.sh
 ```
 -----
 ## What does this script do?  
